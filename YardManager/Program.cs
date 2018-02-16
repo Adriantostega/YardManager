@@ -10,6 +10,7 @@ namespace YardManager
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Project Created");
         }
     }
 }
